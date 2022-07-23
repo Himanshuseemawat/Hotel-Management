@@ -6,7 +6,7 @@ A Hotel Management System simulation that simulates a multi-day business in a ho
 
 ## Installation
 
-Simply run SyedAhsanAhmed02908.cbp to run open project. If you don't have to means to open the project, use exe file to run the project executable.
+Simply run main.cbp to run open project. If you don't have to means to open the project, use exe file to run the project executable.
 
 ## Screenshots
 
